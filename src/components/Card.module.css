@@ -1,0 +1,40 @@
+.fundo{
+    background-color: #D7D7D9;
+    min-height: 400px;
+    height: 420px;
+    width: 290px;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.img{
+    max-width: 290px;
+    max-height:175px;
+    width: auto;
+    height: auto;
+}
+
+.titulo{
+    font-size: 18pt;
+    color: #012030;
+    font-weight: 600;
+    text-align: left;
+    margin-top: 10px;
+}
+
+.texto{
+    color: #13678A;
+    font-size: 13pt;
+    text-align: left;
+    margin-top: 10px;
+}
+
+.link{
+    text-decoration: none;
+    color: #026E81;
+    font-size: 11pt;
+    display: flex;
+    justify-content: end;
+    margin-top: 5px;
+}
